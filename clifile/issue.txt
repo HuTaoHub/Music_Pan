@@ -1,0 +1,7 @@
+err01 pipe init error
+err02 fork error
+err03 execv error
+err04 filename empty
+err05 file open fail
+err06 wrong select
+err07 file not exist
